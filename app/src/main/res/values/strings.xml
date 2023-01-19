@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeekLab</string>
+    <string name="message">Hello World from Dave</string>
+    <string name="button_message">Click Me</string>
+</resources>
